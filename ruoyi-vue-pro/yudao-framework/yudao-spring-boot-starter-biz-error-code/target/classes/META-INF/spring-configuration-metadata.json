@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "yudao.error-code",
+      "type": "cn.iocoder.yudao.framework.errorcode.config.ErrorCodeProperties",
+      "sourceType": "cn.iocoder.yudao.framework.errorcode.config.ErrorCodeProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "yudao.error-code.constants-class-list",
+      "type": "java.util.List<java.lang.String>",
+      "description": "错误码枚举类",
+      "sourceType": "cn.iocoder.yudao.framework.errorcode.config.ErrorCodeProperties"
+    },
+    {
+      "name": "yudao.error-code.enable",
+      "type": "java.lang.Boolean",
+      "description": "是否开启",
+      "sourceType": "cn.iocoder.yudao.framework.errorcode.config.ErrorCodeProperties"
+    }
+  ],
+  "hints": []
+}
